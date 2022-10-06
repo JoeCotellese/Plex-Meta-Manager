@@ -72,62 +72,56 @@ plex:                                           # Can be individually specified 
 tmdb:
   apikey: 
   language: en
-tautulli:                                       # Can be individually specified per library as well
-  url: http://tautulli:8181
-  apikey: 
 omdb:
   apikey:
 #notifiarr:      # https://github.com/meisnate12/Plex-Meta-Manager-Wiki/blob/master/Notifiarr-Attributes.md
   #apikey: 
-anidb:          # Optional
-  username: 
-  password: 
-radarr:                                         # Can be individually specified per library as well
-  url: http://radarr:7878
-  token: 
-  version: v3
-  add: false
-  root_folder_path: 
-  monitor: true
-  availability: announced
-  quality_profile: Any
-  tag:
-  search: false
-  add_existing: false
-  radarr_path:
-  plex_path:
-sonarr:                                         # Can be individually specified per library as well
-  url: http://sonarr:8989
-  token: 
-  version: v3
-  add: false
-  root_folder_path: 
-  monitor: all
-  quality_profile: Any
-  language_profile: English
-  series_type: standard
-  season_folder: true
-  tag:
-  search: false
-  cutoff_search: false
-  add_existing: false
-  sonarr_path:
-  plex_path:
-trakt:  # https://github.com/meisnate12/Plex-Meta-Manager-Wiki/blob/master/Trakt-Attributes.md
-  client_id: 
-  client_secret: 
-  authorization:
-    access_token: 
-    token_type: 
-    expires_in: 
-    refresh_token: 
-    scope: public
-    created_at: 
-mal:  # https://github.com/meisnate12/Plex-Meta-Manager-Wiki/blob/master/MyAnimeList-Attributes.md
-  client_id: 
-  client_secret: 
-  authorization:
-    access_token: 
-    token_type: 
-    expires_in: 
-    refresh_token: 
+# radarr:                                         # Can be individually specified per library as well
+#   url: http://radarr:7878
+#   token: 
+#   version: v3
+#   add: false
+#   root_folder_path: 
+#   monitor: true
+#   availability: announced
+#   quality_profile: Any
+#   tag:
+#   search: false
+#   add_existing: false
+#   radarr_path:
+#   plex_path:
+# sonarr:                                         # Can be individually specified per library as well
+#   url: http://sonarr:8989
+#   token: 
+#   version: v3
+#   add: false
+#   root_folder_path: 
+#   monitor: all
+#   quality_profile: Any
+#   language_profile: English
+#   series_type: standard
+#   season_folder: true
+#   tag:
+#   search: false
+#   cutoff_search: false
+#   add_existing: false
+#   sonarr_path:
+#   plex_path:
+# trakt:  # https://github.com/meisnate12/Plex-Meta-Manager-Wiki/blob/master/Trakt-Attributes.md
+#   client_id: 
+#   client_secret: 
+#   authorization:
+#     access_token: 
+#     token_type: 
+#     expires_in: 
+#     refresh_token: 
+#     scope: public
+#     created_at: 
+# mal:  # https://github.com/meisnate12/Plex-Meta-Manager-Wiki/blob/master/MyAnimeList-Attributes.md
+#   client_id: 
+#   client_secret: 
+#   authorization:
+#     access_token: 
+#     token_type: 
+#     expires_in: 
+#     refresh_token: 
