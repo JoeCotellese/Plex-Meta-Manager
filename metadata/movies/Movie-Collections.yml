@@ -17,48 +17,12 @@ collections:
 
   101 Dalmatians (Animated):
     template: {name: Collection, collection: 100693, summary: 100693, poster: https://theposterdb.com/api/assets/44903 }
-  101 Dalmatians (Live-Action):
-    template: {name: Collection, collection: 124916, summary: 124916, poster: https://theposterdb.com/api/assets/49811 }
-  28 Days/Weeks Later:
-    template: {name: Collection, collection: 1565, summary: 1565}
-    name_mapping: 28 Days-Weeks Later
-  3 Ninja:
-    template: {name: Collection, collection: 71458}
-  "300":
-    template: {name: Collection, collection: 125570}
-  Addams Family:
-    template: {name: Collection, collection: 11716}
-  Air Bud:
-    template: {name: Collection, collection: 97445}
-  Aladdin:
-    template: {name: Collection, collection: 86027}
-  Alice in Wonderland:
-    template: {name: Collection, collection: 261307}
   Alien:
     template: {name: Collection, collection: "8091, 135416", summary: 135416}
-  All Dogs Go to Heaven:
-    template: {name: Collection, collection: 140910}
-  Almighty:
-    template: {name: Collection, collection: 124949}
-  Alvin and the Chipmunks:
-    template: {name: Collection, collection: 167613}
   The Amazing Spider-Man:
     template: {name: Collection, collection: 125574, summary: 125574}
-  American Pie:
-    template: {name: Collection, collection: "2806, 298820", summary: 298820}
   American Psycho:
     template: {name: Collection, collection: 86105}
-  An American Tail:
-    template: {name: Collection, collection: 8783}
-  Anaconda:
-    template: {name: Collection, collection: 105995, movie: 336560}
-  Anchorman:
-    template: {name: Collection, collection: 93791, summary: 93791, poster: https://theposterdb.com/api/assets/27083}
-  Angels in the ...:
-    template: {name: Collection, collection: 508334}
-    name_mapping: Angels in the
-  The Angry Birds:
-    template: {name: Collection, collection: 531315, summary: 531315, poster: https://theposterdb.com/api/assets/20474}
   Annabelle:
     template: {name: Collection, collection: 402074, summary: 402074, poster: https://theposterdb.com/api/assets/117056}
   Ant-Man:
@@ -133,30 +97,6 @@ collections:
     template: {name: Collection}
     imdb_list: https://www.imdb.com/list/ls054850259/
     summary: Collection of Movies and TV Specials with the beloved Peanuts characters.
-  Charlie's Angels:
-    template: {name: Collection, collection: 86029}
-  Cheaper by the Dozen:
-    template: {name: Collection, collection: 114783}
-  The Chronicles of Narnia:
-    template: {name: Collection, collection: 420}
-  The Chronicles of Riddick:
-    template: {name: Collection, collection: 2794}
-  Cinderella:
-    template: {name: Collection, collection: 55419}
-  Cinderella Story:
-    template: {name: Collection, collection: 437451}
-  City Slickers:
-    template: {name: Collection, collection: 150156}
-  Clash of the Titans:
-    template: {name: Collection, collection: 86780}
-  Clerks:
-    template: {name: Collection, collection: 182813}
-  Cloudy with a Chance of Meatballs:
-    template: {name: Collection, collection: 177467}
-  Cloverfield:
-    template: {name: Collection}
-    imdb_list: https://www.imdb.com/list/ls021933730/
-    summary: Cloverfield is an American science fiction anthology film series and media franchise created and produced by J. J. Abrams consisting of three films, viral marketing websites linking the films together, and a tie-in manga to the first film titled Cloverfield/Kishin (2008), all set in a shared fictional universe referred to as the "Cloververse". The franchise as a whole deals with creatures from other dimensions attacking Earth throughout various decades, all as a repercussion of an experiment by an astronaut team aboard the Cloverfield Station in outer-space. Each film depicts the reality-altering effects of their study, which was meant to find a new energy source replacing the planet's depleted resources, only to open portals for assault from various beasts from deep space.
   The Conjuring:
     template: {name: Collection, collection: 313086, summary: 313086, poster: https://theposterdb.com/api/assets/156081}
   Cornetto Trilogy:
@@ -205,10 +145,6 @@ collections:
     template: {name: Collection, collection: 726871, poster: https://theposterdb.com/api/assets/186478 }
   Dungeons & Dragons:
     template: {name: Collection, collection: 106498}
-  The Emperor's New Groove:
-    template: {name: Collection, collection: 178117}
-  The Equalizer:
-    template: {name: Collection, collection: 523855}
   Escape From ...:
     template: {name: Collection, collection: 115838}
     name_mapping: Escape From
@@ -237,61 +173,12 @@ collections:
     summary: A collection of films based off or closely associated with the Final Fantasy video games.
   Finding Nemo:
     template: {name: Collection, collection: 137697}
-  The Flintstones:
-    template: {name: Collection, collection: 351684}
-  The Fox and the Hound:
-    template: {name: Collection, collection: 100970}
-  Free Willy:
-    template: {name: Collection, collection: 9328}
-  Friday:
-    template: {name: Collection, collection: 43563}
-  Friday the 13th:
-    template: {name: Collection, collection: 9735, movie: "6466, 222724"}
-  Frozen:
-    template: {name: Collection, collection: 386382, movie: "326359, 460793"}
-  G.I. Joe:
-    template: {name: Collection, collection: 135468}
-  Garfield:
-    template: {name: Collection, collection: "86115, 373918"}
-  George Carlin Stand Up:
-    template: {name: Collection}
-    imdb_list: https://www.imdb.com/list/ls070221411/
-    summary: Collection of George Carlin's Stand Up Comedy HBO Specials
-  George Lopez Stand Up:
-    template: {name: Collection}
-    imdb_list: https://www.imdb.com/list/ls086584751/
-    summary: Collection of George Lopez's Stand Up Comedy Specials
-  George of the Jungle:
-    template: {name: Collection, collection: 126221}
-  Ghost in the Shell:
-    template: {name: Collection, collection: 23026}
-  Ghost Rider:
-    template: {name: Collection, collection: 90306}
   Ghostbusters:
     template: {name: Collection, collection: 2980, movie: 43074}
   The Girl - Millennium:
     template: {name: Collection, collection: 575987}
   The Godfather:
     template: {name: Collection, collection: 230}
-  Godzilla (Showa):
-    template: {name: Collection, collection: 374509, movie: 18983}
-    sort_title: Godzilla 01 (Showa)
-  Godzilla (Heisei):
-    template: {name: Collection, collection: 374511, movie: 39256}
-    sort_title: Godzilla 02 (Heisei)
-  Godzilla (Millennium):
-    template: {name: Collection, collection: 374512}
-    sort_title: Godzilla 04 (Millennium)
-  Godzilla (MonsterVerse):
-    template: {name: Collection, collection: 535313, movie: 293167}
-    sort_title: Godzilla 05 (MonsterVerse)
-  Godzilla (Anime):
-    template: {name: Collection, collection: 535790}
-    sort_title: Godzilla 07 (Anime)
-  A Goofy Movie:
-    template: {name: Collection, collection: 410261}
-  Goosebumps:
-    template: {name: Collection, collection: 508783}
   Guardians of the Galaxy:
     template: {name: Collection, collection: 284433}
   Green Street Hooligans:
@@ -354,8 +241,6 @@ collections:
     template: {name: Collection, collection: 8354, movie: "79218, 717095, 387893"}
   The Incredibles:
     template: {name: Collection, collection: 468222}
-  Independence Day:
-    template: {name: Collection, collection: 304378}
   Indiana Jones:
     template: {name: Collection, collection: 84}
   Ip Man:
@@ -367,24 +252,10 @@ collections:
     template: {name: Collection, collection: 477962}
   James Bond:
     template: {name: Collection, collection: 645, summary: 645, poster: https://theposterdb.com/api/assets/115662}
-  Jaws:
-    template: {name: Collection, collection: 2366}
-  Jay and Silent Bob:
-    template: {name: Collection, collection: 726870}
-  Jeff Dunham Stand Up:
-    template: {name: Collection}
-    imdb_list: https://www.imdb.com/list/ls086022668/
-    summary: Collection of Jeff Dunham's Stand Up Comedy Specials
   John Wick:
     template: {name: Collection, collection: 404609, summary: 404609, poster: https://theposterdb.com/api/assets/14054}
-  Johnny Tsunami:
-    template: {name: Collection, collection: 394316}
   Jumanji:
     template: {name: Collection, collection: 495527, summary: 495527, poster: https://theposterdb.com/api/assets/54112}
-  Jump Street:
-    template: {name: Collection, collection: 212562}
-  The Jungle Book:
-    template: {name: Collection, collection: 97459}
   Jurassic Park:
     template: {name: Collection, collection: 328, movie: 630322}
   The Karate Kid:
@@ -409,12 +280,6 @@ collections:
     template: {name: Collection, collection: 19163}
   Legally Blonde:
     template: {name: Collection, collection: 86024}
-  LEGO DC Comics Super Heroes:
-    template: {name: Collection, collection: 386162}
-  The Lego Movie:
-    template: {name: Collection, collection: 325470}
-  Lego Star Wars:
-    template: {name: Collection, collection: 302331}
   Lethal Weapon:
     template: {name: Collection, collection: 945}
   Lilo & Stitch:
@@ -425,16 +290,10 @@ collections:
     template: {name: Collection, collection: 33085}
   The Lord of the Rings:
     template: {name: Collection, collection: 119}
-  The Lord of the Rings (Animated):
-    template: {name: Collection, collection: 141290}
   Mad Max:
     template: {name: Collection, collection: 8945}
   Madagascar:
     template: {name: Collection, collection: 14740, movie: "161143, 25472, 270946"}
-  Maleficent:
-    template: {name: Collection, collection: 531331}
-  Mall Cop:
-    template: {name: Collection, collection: 328372}
   The Man with No Name:
     template: {name: Collection}
     imdb_list: https://www.imdb.com/list/ls023916334/
@@ -635,82 +494,13 @@ collections:
     template: {name: Collection, collection: 449462}
   Superman (Original):
     template: {name: Collection, collection: 8537}
-  Surf's Up:
-    template: {name: Collection, collection: 436295}
-  Taken:
-    template: {name: Collection, collection: 135483}
-  Tarzan:
-    template: {name: Collection, collection: 106768}
-  Ted:
-    template: {name: Collection, collection: 266672}
-  Teenage Mutant Ninja Turtles:
-    template: {name: Collection, collection: "1582, 401562", movie: 1273}
-  Tekken:
-    template: {name: Collection, collection: 294172}
   The Terminator:
     template: {name: Collection, collection: 528}
-  Texas Chainsaw Massacre:
-    template: {name: Collection, collection: "111751, 425175"}
   Thor:
     template: {name: Collection, collection: 131296}
-  The Three Stooges:
-    template: {name: Collection}
-    imdb_list: https://www.imdb.com/list/ls075972675/
-    tmdb_movie: 76489
-    summary: The Three Stooges were an American vaudeville and comedy team active from 1922 until 1970, best known for their 190 short subject films by Columbia Pictures that have been regularly airing on television since 1958.
-  Tinker Bell:
-    template: {name: Collection, collection: 315595}
-  Tokyo Ghoul:
-    template: {name: Collection, collection: 551278}
-  Tom and Jerry:
-    template: {name: Collection}
-    imdb_list: https://www.imdb.com/list/ls022966050/
-    summary: Tom and Jerry's animated feature-length films based on the series.
-  Tomb Raider:
-    template: {name: Collection, collection: "2467, 621142"}
-  Tomie:
-    template: {name: Collection, collection: 139394}
-  Toy Story:
-    template: {name: Collection, collection: 10194, movie: 130925}
-  Trainspotting:
-    template: {name: Collection, collection: 424202}
-  Transformers:
-    template: {name: Collection, collection: 8650}
-  The Transporter:
-    template: {name: Collection, collection: 9518}
-  Tremors:
-    template: {name: Collection, collection: 91799}
-  Trolls:
-    template: {name: Collection, collection: 489724}
-  TRON:
-    template: {name: Collection, collection: 63043, movie: 73362}
-  Unbreakable:
-    template: {name: Collection}
-    imdb_list: https://www.imdb.com/list/ls022101006/
-    summary: The Unbreakable trilogy, officially known as the Eastrail 177 Trilogy, is an American superhero thriller and psychological horror film series. The films were written, produced, and directed by M. Night Shyamalan. The trilogy consists of Unbreakable (2000), Split (2016), and Glass (2019).
-  Underworld:
-    template: {name: Collection, collection: 2326}
-  Viy:
-    template: {name: Collection, collection: 428046}
-  Wall Street:
-    template: {name: Collection, collection: 52783}
-  Wallace & Gromit:
-    template: {name: Collection, collection: 529}
-  Wayne's World:
-    template: {name: Collection, collection: 8979}
-  Wonder Woman:
-    template: {name: Collection, collection: 468552}
   Wreck-It Ralph:
     template: {name: Collection, collection: 404825}
   X-Men:
     template: {name: Collection, collection: "748, 453993, 448150", movie: 567604}
-  xXx:
-    template: {name: Collection, collection: 52785}
-  Zenon:
-    template: {name: Collection, collection: 321148}
-  Zombieland:
-    template: {name: Collection, collection: 537982}
-  Zoolander:
-    template: {name: Collection, collection: 352789}
   Zorro:
     template: {name: Collection, collection: 1657}
